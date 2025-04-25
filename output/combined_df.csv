@@ -1,0 +1,69 @@
+"","facility_source_affected","plant_name","utility_name","street_address","city","state","zip","prim_source","latitude","longitude"
+"1","Antelope Valley Station Units 1 and 2","Antelope Valley","Basin Electric Power Coop","Hwy 200","Beulah","North Dakota",58523,"coal",47.370542,-101.83566
+"2","Apache Generating Station","Apache Station","Arizona Electric Pwr Coop Inc","3525 N US Hwy 191","Cochise","Arizona",85606,"natural gas",32.0603,-109.8931
+"3","Baldwin Power Plant Unit 1 and Unit 2","Baldwin Energy Complex","Dynegy Midwest Generation Inc","10901 Baldwin Rd Box146","Baldwin","Illinois",62217,"coal",38.205,-89.8544
+"4","Barry Steam Electric Generating Facility Unit 5","Barry","Alabama Power Co","North Highway 43","Bucks","Alabama",36512,"natural gas",31.0069,-88.0103
+"5","Big Stone Plant","Big Stone","Otter Tail Power Co","48450  144th Street","Big Stone City","South Dakota",57216,"coal",45.303652,-96.510067
+"6","Bowen Steam Generator Unit 1, Unit 2, Unit 3, and Unit 4","Bowen","Georgia Power Co","317 Covered Bridge Road, SW","Cartersville","Georgia",30120,"coal",34.1256,-84.9222
+"7","Brame Energy Center Unit 2","Brame Energy Center","Cleco Power LLC","275 Rodemacher Rd","Lena","Louisiana",71447,"petroleum",31.395,-92.716667
+"8","Coal Creek Station","Coal Creek","Rainbow Energy Center","2875 3rd Street SW","Underwood","North Dakota",58576,"coal",47.377743,-101.157058
+"9","Coleto Creek Power Station","Coleto Creek","Coleto Creek Power LP","FM 2987 off Hwy 59","Fannin","Texas",77960,"coal",28.7128,-97.214167
+"10","Colstrip Steam Electric Station Units 3 and 4","Colstrip","Talen Montana LLC","1 Warehouse Road","Colstrip","Montana",59323,"coal",45.8831,-106.614
+"11","Colver Green Facility","Colver Green Energy","Inter-Power/AhlCon Partners, L.P.","141 Interpower Drive","Colver","Pennsylvania",15927,"coal",40.55108,-78.79794
+"12","Conemaugh Station Unit 1 and Unit 2","Conemaugh","KeyCon Operating LLC","1442 Power Plant Road","New Florence","Pennsylvania",15944,"coal",40.3842,-79.0611
+"13","Cooper Station","Cooper","East Kentucky Power Coop, Inc","670 Cooper Power Plant Rd.","Somerset","Kentucky",42501,"coal",36.9981,-84.5919
+"14","Coyote Station","Coyote","Otter Tail Power Co","6240  13th Street SW","Beulah","North Dakota",58523,"coal",47.221447,-101.815722
+"15","Cumberland Fossil Plant","Cumberland (TN)","Tennessee Valley Authority","815 Cumberland City Rd.","Cumberland City","Tennessee",37050,"coal",36.3903,-87.6539
+"16","D.B. Wilson Station","D B Wilson","Big Rivers Electric Corp","5663 Highway 85 West","Centertown","Kentucky",42328,"coal",37.4497,-87.0806
+"17","Dry Fork Station Unit 1","Dry Fork Station","Basin Electric Power Coop","Interstate 90","Gillette","Wyoming",82732,"coal",44.388889,-105.460833
+"18","EPC Generating Station","Ebensburg Power","Ebensburg Power Co","2840 New Germany Road","Ebensburg","Pennsylvania",15931,"coal",40.455,-78.7472
+"19","Fort Martin Power Station","FirstEnergy Fort Martin Power Station","Monongahela Power Co","PO Box 247","Maidsville","West Virginia",26541,"coal",39.710833,-79.9275
+"20","Gallatin Fossil Plant","Gallatin (TN)","Tennessee Valley Authority","1499 Steam Plant Rd.","Gallatin","Tennessee",37066,"coal",36.3156,-86.4006
+"21","Grant Town Power Plant Boiler #1A and Boiler #1B","Grant Town Power Plant","American Bituminous Power LP","228 ABPP Drive","Grant Town","West Virginia",26574,"coal",39.561831,-80.163138
+"22","Harrison Power Station","FirstEnergy Harrison Power Station","Monongahela Power Co","PO Box 600","Haywood","West Virginia",26366,"coal",39.384167,-80.3325
+"23","Healy Power Plant Unit 1 and Unit 2","Healy","Golden Valley Elec Assn Inc","2.5 Mile Healy Spur Road","Healy","Alaska",99743,"coal",63.8542,-148.95
+"24","Holcomb Station","Holcomb","Sunflower Electric Power Corp","2440 Holcomb Lane","Holcomb","Kansas",67851,"coal",37.9308,-100.9725
+"25","Hugo Generating Station HU-UNIT 1","Hugo","Western Farmers Elec Coop, Inc","3 Miles West on Hyw. 70","Fort Towson","Oklahoma",74735,"coal",34.0158,-95.3206
+"26","John B. Rich Memorial Power Station CFB Boiler 1 (CU031) and CFB Boiler 2 (CU032)","John B Rich Memorial Power Station","Gilberton Power Co","81 Eleanor Avenue","Frackville","Pennsylvania",17931,"coal",40.7903,-76.1983
+"27","John Twitty Energy Center","John Twitty Energy Center","City Utilities of Springfield - (MO)","5100 W Farm Road 164","Springfield","Missouri",65807,"coal",37.151706,-93.38804
+"28","Keystone Station Unit 1 and Unit 2","Keystone","KeyCon Operating LLC","313 Keystone Drive","Shelocta","Pennsylvania",15774,"coal",40.6604,-79.3411
+"29","Kincaid Power Plant Unit 1 and Unit 2","Kincaid Generation LLC","Dynegy Kincaid Generation","4 Miles West of Kincaid Rt 104","Kincaid","Illinois",62540,"coal",39.590556,-89.496389
+"30","Kingston Fossil Plant","Kingston","Tennessee Valley Authority","Swan Pond Rd. PO Box 2000","Kingston","Tennessee",37763,"coal",35.8992,-84.5194
+"31","Labadie Energy Center","Labadie","Union Electric Co - (MO)","226 Labadie Power Plant Road","Labadie","Missouri",63055,"coal",38.562244,-90.837686
+"32","Laramie River Station Units 1, 2, and 3","Laramie River Station","Basin Electric Power Coop","Hwy 320","Wheatland","Wyoming",82201,"coal",42.108889,-104.8825
+"33","Leland Olds Station Units 1 and 2","Leland Olds","Basin Electric Power Coop","Hwy 200","Stanton","North Dakota",58571,"coal",47.280769,-101.321213
+"34","Limestone Generating Station","Limestone","NRG Texas Power LLC","Route1, Box 85","Jewett","Texas",75846,"coal",31.4219,-96.2525
+"35","Martin Lake Steam Electric Station Unit 1, Unit 2, and Unit 3","Martin Lake","Luminant Generation Company LLC","PO Box 651","Tatum","Texas",75691,"coal",32.2606,-94.5706
+"36","Merom Generating Station","Merom","Hallador Power Company, LLC","5500 W. Old 54","Sullivan","Indiana",47882,"coal",39.0694,-87.5108
+"37","Merrimack Station in Bow, New Hampshire","Merrimack","Granite Shore Power","97 River Rd.","Bow","New Hampshire",3301,"coal",43.1411,-71.4692
+"38","Miami Fort Power Plant Unit 1 (B015) and Unit 2 (B016)","Miami Fort","Luminant Miami Fort","11021 Brower Rd.","North Bend","Ohio",45052,"coal",39.1128,-84.8036
+"39","Miller Steam Electric Generating Facility Unit 1, Unit 2, Unit 3, and Unit 4","James H Miller Jr","Alabama Power Co","42050 Porter Road","Quinton","Alabama",35073,"coal",33.6319,-87.0597
+"40","Milton R. Young Station Unit 1 and Unit 2","Milton R Young","Minnkota Power Coop, Inc","3401 24th Street S.W.","Center","North Dakota",58530,"coal",47.065854,-101.213093
+"41","Mount Carmel Cogen Power Plant","Foster Wheeler Mt Carmel Cogen","Mount Carmel Cogen Inc","Marion Heights Road & Rt 54","Marion Heights","Pennsylvania",17832,"coal",40.811189,-76.452951
+"42","Mount Storm Power Station","Mt Storm","Virginia Electric & Power Co","HC 76, Box 430","Mount Storm","West Virginia",26739,"coal",39.2008,-79.2636
+"43","Muskogee Unit 6","Muskogee","Oklahoma Gas & Electric Co","5501 Three Forks Road","Fort Gibson","Oklahoma",74434,"natural gas",35.76135,-95.28732
+"44","New Madrid Power Plant Unit 1 and Unit 2 Coal Fired Cyclone Boilers","New Madrid","Associated Electric Coop, Inc","41 St. Jude Industrial Park","New Madrid","Missouri",63869,"coal",36.5147,-89.5617
+"45","Newton Power Station Unit 1","Newton","Illinois Power Generating Co","6725 N. 500th","Newton","Illinois",62448,"coal",38.9361,-88.2781
+"46","Northampton Generating Station Generating Unit 1","Northampton Generating Company LP","EIF Northampton GP, LLC","1 Horwith Drive","Northampton","Pennsylvania",18067,"coal",40.6917,-75.4792
+"47","Oak Grove Steam Electric Station","Oak Grove (TX)","Luminant Generation Company LLC","P.O. Box 558","Franklin","Texas",77856,"coal",31.1803,-96.4866
+"48","Panther Creek Pyropower Unit (031) and Pyropower Unit 2 (032)","Panther Creek Energy Facility","Panther Creek Power Operating, LLC","4 Dennison Road","Nesquehoning","Pennsylvania",18240,"coal",40.8556,-75.8781
+"49","Plant Daniel Electric Generating Unit 1 and Unit 2","Victor J Daniel Jr","Mississippi Power Co","13201 Highway 63","Escatawpa","Mississippi",39552,"natural gas",30.5322,-88.5553
+"50","Plum Point Generation Station","Plum Point Energy Station","NRG Energy Services - Plum Point","2732A South County Road 623","Osceola","Arkansas",72370,"coal",35.6644,-89.9489
+"51","Powerton Electric Generating Station","Powerton","Midwest Generations EME LLC","Rt 29 & Manito Rd","Pekin","Illinois",61554,"coal",40.5408,-89.6786
+"52","Rausch Creek Generation Fluidized Bed Boiler (031)","Westwood Generation LLC","Rausch Creek Generation, LLC","PO Box 312","Tremont","Pennsylvania",17981,"coal",40.6191,-76.45
+"53","Red Hills Generating Facility","Red Hills Generating Facility","Choctaw Generation L.P, L.L.L.P.","2391 Pensacola Road","Ackerman","Mississippi",39735,"coal",33.3761,-89.2183
+"54","River Valley Common Stack CS 1","River Valley","Oklahoma Gas & Electric Co","PO Box 1740","Panama","Oklahoma",74951,"coal",35.1931,-94.6458
+"55","RS Nelson Plant Unit 6","R S Nelson","Entergy Louisiana LLC","3500 Houston River Road","Westlake","Louisiana",70669,"coal",30.2844,-93.2911
+"56","San Miguel Cooperative, Inc. in Christine, TX","San Miguel","San Miguel Electric Coop, Inc","6200 FM 3387","Christine","Texas",78012,"coal",28.7044,-98.4775
+"57","Scherer Steam Generator Unit 1, Unit 2, and Unit 3","Scherer","Georgia Power Co","10986 Highway 87","Juliette","Georgia",31046,"coal",33.0606,-83.8075
+"58","Scrubgrass Generating Plant/Venango Number 2 CFB Boiler (031), Number 2 CEB Boiler (032)","Scrubgrass Reclamation CO. LP.","Scrubgrass Reclamation CO. LP.","2151 Lisbon Road","Kennerdell","Pennsylvania",16374,"coal",41.2691,-79.8134
+"59","Seward Generation Station","Seward (PA)","Seward Generating LLC","595 Plant Road","New Florence","Pennsylvania",15944,"coal",40.40625,-79.03366
+"60","Shawnee Fossil Plant","Shawnee","Tennessee Valley Authority","7900 Metropolis Lake Rd.","West Paducah","Kentucky",42086,"coal",37.1517,-88.775
+"61","Sioux Energy Center","Sioux","Union Electric Co - (MO)","8501 N. State Route 94","West Alton","Missouri",63386,"coal",38.915479,-90.290247
+"62","Sooner Unit 1 and Unit 2","Sooner","Oklahoma Gas & Electric Co","10800 County Road 230","Red Rock","Oklahoma",73061,"coal",36.45307,-97.05279
+"63","Spurlock Station","H L Spurlock","East Kentucky Power Coop, Inc","Route 8 P.O. Box 398","Maysville","Kentucky",41056,"coal",38.7,-83.8181
+"64","St. Nicholas Cogeneration Project","St Nicholas Cogen Project","Schuylkill Energy Resource Inc","Hwy 54 E, Twp Rt. 851","Shenandoah","Pennsylvania",17976,"coal",40.8222,-76.1736
+"65","Thomas Hill Energy Center Unit 1 and Unit 2 Coal Fired Cyclone Boilers and Unit 3 Pulverized Coal Fired Tangential Boiler","Thomas Hill","Associated Electric Coop, Inc","5693 Highway F","Clifton Hill","Missouri",65244,"coal",39.5522,-92.6381
+"66","W.A Parish Generating Station","W A Parish","NRG Texas Power LLC","2500 Y. U. Jones Road","Thompsons","Texas",77481,"coal",29.4828,-95.6311
+"67","Walleye Power, LLC Bay Shore Unit 1","FirstEnergy Bay Shore","Walleye Power, LLC","4701 Bay Shore Road","Oregon","Ohio",43616,"petroleum",41.6917,-83.4378
+"68","White Bluff Steam Electric Station Unit 1","White Bluff","Entergy Arkansas LLC","1100 White Bluff Road","Redfield","Arkansas",72132,"coal",34.4228,-92.1406
